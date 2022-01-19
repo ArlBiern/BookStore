@@ -84,7 +84,7 @@ npm start
 * **ceglarzagata** - check at [Github](https://github.com/ceglarzagata)
 * **freefrogs** - check at [Github](https://github.com/freefrogs)
 * **ireshka** - check at [Github](https://github.com/ireshka)
-* **Kombajn27** - check at [Github](https://github.com/Kombajn27)
+* **ArlBiern** - check at [Github](https://github.com/ArlBiern)
 * **natkalia** - check at [Github](https://github.com/natkalia)
 
 ## :notebook: To improve
